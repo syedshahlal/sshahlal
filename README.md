@@ -32,10 +32,7 @@ As I wield the tools of data science, I am driven by a passion for exploring new
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
-<img align="left" alt="PySpark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyspark/pyspark-original.svg" />
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
 <br />
 
 
@@ -49,4 +46,4 @@ Working as a Material Analyst at Renault Nissan, Technical Analyst at Kuwait Oil
 
 Determined to embrace this exciting field, I took a leap into Data Science. Challenges only fueled my hunger to grow. With every step, I explore the power of data, developing impactful solutions.
 
-Today, as a Data Scientist, I live my dream, uncovering insights and making a difference in this dynamic, data-driven world. The journey from coding to data has been extraordinary, and I'm excited for the endless possibilities that lie ahead.
+Today, as a Data Scientist, I live my dream, of uncovering insights and making a difference in this dynamic, data-driven world. The journey from coding to data has been extraordinary, and I'm excited about the endless possibilities that lie ahead.
