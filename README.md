@@ -2,12 +2,13 @@
 
 **'Data Artisan (Analyst/Innovator/Artist)'**
 
-I am a Data Artisan, a master of insights and innovation, crafting a data-driven world one discovery at a time. Just like a skilled craftsman, I excel in the art of data analysis, seamlessly blending analytical prowess with creative vision. As an Analyst, I unravel the patterns hidden within vast datasets, unlocking valuable knowledge to fuel decision-making.
+As a Data Artisan, I am more than just a Data Scientist; I am a multifaceted individual with a passion for illustration, music, soccer, and exploring the world through traveling. Just like a skilled illustrator, I bring a creative touch to data analysis, transforming raw numbers into visually captivating insights that tell compelling stories.
 
-With the dexterity of a Filmmaker, I visualize data stories, transforming complex information into compelling narratives that resonate with stakeholders. As a Creator, I build predictive models and implement cutting-edge machine learning algorithms, bringing ideas to life and driving transformative outcomes.
+My love for music fuels my analytical spirit, allowing me to harmoniously compose data-driven solutions that resonate with precision. Like a seasoned soccer player, I am agile and strategic in navigating complex datasets, uncovering patterns that lead to game-changing discoveries.
 
-As I wield the tools of data science, I am driven by a passion for exploring new frontiers and seeking innovative solutions. In this data-driven era, I am the visionary who shapes the future, using data as my canvas and insights as my masterpiece. Step into the realm of the Data Artisan, where data becomes art and intelligence leads to progress.
+As a traveling visionary, I embrace the diversity of cultures and experiences, drawing inspiration from each journey to enhance my approach to data analysis and problem-solving. With every exploration, I enrich my understanding of the world and its data, enabling me to craft innovative solutions that transcend boundaries.
 
+Through the synergy of data science and my diverse interests, I paint a vivid picture of possibilities, using data as my canvas and insights as my symphony. In this data-driven odyssey, I am the Data Maestro, where my passion for illustration, music, soccer, and travel converge to create a masterpiece of intelligence and creativity. Step into the realm of the Data Maestro, where imagination knows no limits and data becomes an art form that empowers change.
 ---
 
 ### 🧰 Languages and Tools
