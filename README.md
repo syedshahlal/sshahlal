@@ -30,13 +30,9 @@ Through the synergy of data science and my diverse interests, I paint a vivid pi
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Cassandra" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" />
-<img align="left" alt="PySpark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
-<img align="left" alt="Apache Airflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
 <br />
 
 #
-
 <details>
  <summary><h3>🚀 Embracing the Data World | From Mechanical Engineer to Data Science Grad Student</h3></summary>
 As a naive mechanical engineering student, I was always curious about programming, code, and problem-solving. Learning HTML, CSS, and JavaScript fueled my passion for programming, leading me to the world of Data.
