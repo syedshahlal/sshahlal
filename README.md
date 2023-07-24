@@ -1,11 +1,16 @@
 <h1 align="center">
 Hi, I'm Syed Razauddin Shahlal!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="sshahlal" />
 <br/>
 # 🏄‍♂️ Syed Razauddin Shahlal
 
-**'Data Artisan (Analyst/Innovator/Artist)'**
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Artificial+Intelligence;%20DL%20|%20NLP%20|%20ML%20Enthusiastic;Artist+Traveller+Footballer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+<hr/>
+
+**'Data Artisan (Analyst/Illustrator/Artist)'**
 
 As a Data Artisan, I am more than just a Data Scientist; I am a multifaceted individual with a passion for illustration, music, soccer, and exploring the world through travel. Just like a skilled illustrator, I bring a creative touch to data analysis, transforming raw numbers into visually captivating insights that tell compelling stories.
 
