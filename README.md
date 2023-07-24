@@ -9,7 +9,7 @@ Hi, I'm Syed Razauddin Shahlal!
 </p>
 <hr/>
 
-# 🏄‍♂️ Data Artisan (Analyst/Illustrator/Artist)
+# 🏄‍♂️ Data Scientist (Analyst/Illustrator/Artist)
 
 As a Data Artisan, I am more than just a Data Scientist; I am a multifaceted individual with a passion for illustration, music, soccer, and exploring the world through travel. Just like a skilled illustrator, I bring a creative touch to data analysis, transforming raw numbers into visually captivating insights that tell compelling stories.
 
