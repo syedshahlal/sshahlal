@@ -11,7 +11,7 @@ Hi, I'm Syed Razauddin Shahlal!
 
 # 🏄‍♂️ Data Scientist (Analyst/Illustrator/Artist)
 
-As a Data Artisan, I am more than just a Data Scientist; I am a multifaceted individual with a passion for illustration, music, soccer, and exploring the world through travel. Just like a skilled illustrator, I bring a creative touch to data analysis, transforming raw numbers into visually captivating insights that tell compelling stories.
+I am more than just a Data Scientist; I am a multifaceted individual with a passion for illustration, music, soccer, and exploring the world through travel. Just like a skilled illustrator, I bring a creative touch to data analysis, transforming raw numbers into visually captivating insights that tell compelling stories.
 
 My love for music fuels my analytical spirit, allowing me to harmoniously compose data-driven solutions that resonate with precision. Like a seasoned soccer player, I am agile and strategic in navigating complex datasets, uncovering patterns that lead to game-changing discoveries.
 
@@ -20,7 +20,7 @@ As a traveling visionary, I embrace the diversity of cultures and experiences, d
 Through the synergy of data science and my diverse interests, I paint a vivid picture of possibilities, using data as my canvas and insights as my symphony. In this data-driven odyssey, I am the Data Maestro, where my passion for illustration, music, soccer, and travel converge to create a masterpiece of intelligence and creativity. Step into the realm of the Data Maestro, where imagination knows no limits and data becomes an art form that empowers change.
 
 ---
-## 🛠️ My Favorite Tools
+## 🛠️ My ToolBox
 
 ### 👨‍💻 Programming Languages
 
@@ -93,7 +93,7 @@ Through the synergy of data science and my diverse interests, I paint a vivid pi
 
 
 #
-<details>
+
  <summary><h3>🚀 Embracing the Data World | From Mechanical Engineer to Data Science </h3></summary>
 As a naive mechanical engineering student, I was always curious about programming, code, and problem-solving. Learning HTML, CSS, and JavaScript fueled my passion for programming, leading me to the world of Data.
 
@@ -102,3 +102,17 @@ Working as a Material Analyst at Renault Nissan, Technical Analyst at Kuwait Oil
 Determined to embrace this exciting field, I took a leap into Data Science. Challenges only fueled my hunger to grow. With every step, I explore the power of data, developing impactful solutions.
 
 Today, as a Data Scientist, I live my dream, of uncovering insights and making a difference in this dynamic, data-driven world. The journey from coding to data has been extraordinary, and I'm excited about the endless possibilities that lie ahead.
+
+## 🙋‍♀️ Let's Connect
+
+<p align="center">
+    <a href="https://sshahlal.github.io/" target="_blank"><img src="https://img.icons8.com/color/50/000000/portfolio.png" alt="Portfolio"/></a>
+    <a href="https://github.com/syedshahlal" target="_blank"><img src="https://img.icons8.com/color/50/000000/github.png" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/srshahlal/" target="_blank"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn"/></a>
+    <a href="https://www.facebook.com/sr.shahlal/" target="_blank"><img src="https://img.icons8.com/color/50/000000/facebook-new.png" alt="Facebook"/></a>
+    <a href="https://www.instagram.com/syedshahlal/" target="_blank"><img src="https://img.icons8.com/color/50/000000/instagram-new.png" alt="Instagram"/></a>
+    <a href="mailto:sr.shahlal@gmail.com" target="_blank"><img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
+
+
+
