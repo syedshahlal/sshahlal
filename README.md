@@ -1,6 +1,6 @@
 # 🏄‍♂️ Syed Razauddin Shahlal
 
-**'Data Artisan (Analyst/Innovator/Visionary)'**
+**'Data Artisan (Analyst/Innovator/Artist)'**
 
 I am a Data Artisan, a master of insights and innovation, crafting a data-driven world one discovery at a time. Just like a skilled craftsman, I excel in the art of data analysis, seamlessly blending analytical prowess with creative vision. As an Analyst, I unravel the patterns hidden within vast datasets, unlocking valuable knowledge to fuel decision-making.
 
@@ -34,7 +34,7 @@ As I wield the tools of data science, I am driven by a passion for exploring new
 <img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <br />
 
-
+---
 #
 
 <details>
