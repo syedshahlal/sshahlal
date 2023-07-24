@@ -34,7 +34,7 @@ Through the synergy of data science and my diverse interests, I paint a vivid pi
 
 #
 <details>
- <summary><h3>🚀 Embracing the Data World | From Mechanical Engineer to Data Science Grad Student</h3></summary>
+ <summary><h3>🚀 Embracing the Data World | From Mechanical Engineer to Data Science </h3></summary>
 As a naive mechanical engineering student, I was always curious about programming, code, and problem-solving. Learning HTML, CSS, and JavaScript fueled my passion for programming, leading me to the world of Data.
 
 Working as a Material Analyst at Renault Nissan, Technical Analyst at Kuwait Oil Company, and Data Analyst at Yahsat exposed me to the vast potential of data. This experience ignited my desire to dive deeper into the data realm.
