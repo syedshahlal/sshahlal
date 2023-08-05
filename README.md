@@ -87,6 +87,7 @@ Through the synergy of data science and my diverse interests, I paint a vivid pi
     <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC.svg?logo=bitbucket&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"></a>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
 </p>
 
 
