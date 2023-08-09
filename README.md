@@ -6,7 +6,7 @@ Hi, I'm Syed Razauddin Shahlal!
 <!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedshahlal&layout=compact) [![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedshahlal)](https://github.com/syedshahlal/github-readme-stats) -->
 <img src="https://github.com/syedshahlal/syedshahlal/blob/main/cover.gif" width="1000" >
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Graduate+Student;%20DL%20|%20NLP%20|%20ML%20Enthusiastic;%20Continous%20Learning%20|%20Embracing%20New%20Knowledge%20|%20Forever%20Curious&center=true&width=750&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Graduate+Student;%20DL%20|%20NLP%20|%20ML%20Enthusiastic;%20Continous%20Learner%20|%20Embracing%20New%20Knowledge%20|%20Forever%20Curious&center=true&width=750&height=45"></a>
 </p>
 <hr/>
 
