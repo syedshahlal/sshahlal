@@ -2,7 +2,7 @@
 Hi, I'm Syed Razauddin Shahlal!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
-
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 <!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedshahlal&layout=compact) [![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedshahlal)](https://github.com/syedshahlal/github-readme-stats) -->
 
 <p align="center">
