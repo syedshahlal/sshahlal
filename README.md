@@ -103,7 +103,7 @@ Working as a Material Analyst at Renault Nissan, Technical Analyst at Kuwait Oil
 
 Determined to embrace this exciting field, I took a leap into Data Science. Challenges only fueled my hunger to grow. With every step, I explore the power of data, developing impactful solutions.
 
-Today, as a Data Scientist, I live my dream, of uncovering insights and making a difference in this dynamic, data-driven world. The journey from coding to data has been extraordinary, and I'm excited about the endless possibilities that lie ahead.
+Today, as a Data Scientist, I live my dream, of uncovering insights and making a difference in this dynamic, data-driven world. The journey from product designing to data has been extraordinary, and I'm excited about the endless possibilities that lie ahead.
 
 ## 🙋‍♀️ Let's Connect
 
