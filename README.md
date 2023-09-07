@@ -97,13 +97,13 @@ Through the synergy of data science and my diverse interests, I paint a vivid pi
 #
 
  <summary><h3>🚀 Embracing the Data World | From Mechanical Engineer to Data Science </h3></summary>
-As a naive mechanical engineering student, I was always curious about programming, code, and problem-solving. Learning HTML, CSS, and JavaScript fueled my passion for programming, leading me to the world of Data.
+I completed my bachelor's in Mechanical Engineering and as a naïve mechanical engineering student, I was always curious about programming, code, and problem-solving. Learning HTML, CSS, and JavaScript fueled my passion for programming, leading me to the world of Data.
 
-Working as a Material Analyst at Renault Nissan, Technical Analyst at Kuwait Oil Company, and Data Analyst at Yahsat exposed me to the vast potential of data. This experience ignited my desire to dive deeper into the data realm.
+My roles as a Material Analyst at Renault Nissan, Technical Analyst at Kuwait Oil Company, and Data Analyst at Yahsat, spanning different countries and industries, provided me with valuable insights into the immense possibilities of data utilization. This firsthand experience fueled my passion to explore the data domain more extensively.
 
 Determined to embrace this exciting field, I took a leap into Data Science. Challenges only fueled my hunger to grow. With every step, I explore the power of data, developing impactful solutions.
 
-Today, as a Data Scientist, I live my dream, of uncovering insights and making a difference in this dynamic, data-driven world. The journey from product designing to data has been extraordinary, and I'm excited about the endless possibilities that lie ahead.
+Today, as a graduate Data Science student, I live my dream, of uncovering insights and making a difference in this dynamic, data-driven world. The journey from product designing to data has been extraordinary, and I'm excited about the endless possibilities that lie ahead.
 
 ## 🙋‍♀️ Let's Connect
 
