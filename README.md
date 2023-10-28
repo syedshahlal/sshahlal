@@ -14,7 +14,7 @@ Hi, I'm Syed Razauddin Shahlal!
 
 I am more than just a Data Scientist; I am a multifaceted individual with a passion for illustration, music, soccer, and exploring the world through travel. Just like a skilled illustrator, I bring a creative touch to data analysis, transforming raw numbers into visually captivating insights that tell compelling stories.
 
-My love for music fuels my analytical spirit, allowing me to harmoniously compose data-driven solutions that resonate with precision. Like a seasoned soccer player, I am agile and strategic in navigating complex datasets, uncovering patterns that lead to game-changing discoveries.
+My love for music fuels my analytical spirit, allowing me to harmoniously compose data-driven solutions that resonate with precision. Like a seasoned soccer player, I am agile and strategic in navigating complex datasets, and uncovering patterns that lead to game-changing discoveries.
 
 As a traveling visionary, I embrace the diversity of cultures and experiences, drawing inspiration from each journey to enhance my approach to data analysis and problem-solving. With every exploration, I enrich my understanding of the world and its data, enabling me to craft innovative solutions that transcend boundaries.
 
@@ -99,11 +99,11 @@ Through the synergy of data science and my diverse interests, I paint a vivid pi
  <summary><h3>🚀 Embracing the Data World | From Mechanical Engineer to Data Science </h3></summary>
 I completed my bachelor's in Mechanical Engineering and as a naïve mechanical engineering student, I was always curious about programming, code, and problem-solving. Learning HTML, CSS, and JavaScript fueled my passion for programming, leading me to the world of Data.
 
-My roles as a Material Analyst at Renault Nissan, Technical Analyst at Kuwait Oil Company, and Data Analyst at Yahsat, spanning different countries and industries, provided me with valuable insights into the immense possibilities of data utilization. This firsthand experience fueled my passion to explore the data domain more extensively.
+My roles as a Material Analyst at Renault Nissan, Technical Analyst at Kuwait Oil Company, and Associate Data Scientist at Yahsat, spanning different countries and industries, provided me with valuable insights into the immense possibilities of data utilization. This firsthand experience fueled my passion to explore the data domain more extensively.
 
 Determined to embrace this exciting field, I took a leap into Data Science. Challenges only fueled my hunger to grow. With every step, I explore the power of data, developing impactful solutions.
 
-Today, as a graduate Data Science student, I live my dream, of uncovering insights and making a difference in this dynamic, data-driven world. The journey from product designing to data has been extraordinary, and I'm excited about the endless possibilities that lie ahead.
+Today, as a graduate Data Science student, I live my dream, of uncovering insights and making a difference in this dynamic, data-driven world. The journey from product design to data has been extraordinary, and I'm excited about the endless possibilities that lie ahead.
 
 ## 🙋‍♀️ Let's Connect
 
